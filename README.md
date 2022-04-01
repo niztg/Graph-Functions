@@ -37,7 +37,6 @@ prepare_manylines(
 )
 ```
 
-Result:
 <img src=https://i.imgur.com/NsdDLWh.png height=500></img>
 
 
