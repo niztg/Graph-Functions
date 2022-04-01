@@ -37,7 +37,8 @@ prepare_manylines(
 )
 ```
 
-Res:
-[hyperlink](https://i.imgur.com/xXpKys8.png)
+Result:
+<img src=https://i.imgur.com/NsdDLWh.png height=500></img>
+
 
 made for my son 💙xox
